@@ -3065,6 +3065,7 @@ name = "tugger"
 version = "0.3.0-pre"
 dependencies = [
  "anyhow",
+ "chrono",
  "codemap",
  "codemap-diagnostic",
  "duct",
